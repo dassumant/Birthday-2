@@ -83,6 +83,9 @@
 
   <h1>Happy Birthday ❤️ Preety</h1>
   <div class="container">
-    <img src="1000061840.jpg" class="photo" draggable="true" id="photo1" alt="Preety 1">
-    <img src="1000061834.jpg" class="photo" draggable="true" id="photo2" alt="Preety 2">
-    <img src="1000061794.jpg" class
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD... (truncated)">
+" class="photo" draggable="true" id="photo1" alt="Preety 1">
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD... (truncated)">
+" class="photo" draggable="true" id="photo2" alt="Preety 2">
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD... (truncated)">
+" class
